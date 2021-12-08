@@ -1,4 +1,8 @@
 Hello Jay
 
 Welcome git bash
+<<<<<<< HEAD
 location hyderbad
+=======
+
+>>>>>>> 3fe0b5cf981d42092dcb8d422b41f067b73e3dff
