@@ -2,5 +2,5 @@ Hello Jay
 
 Welcome git bash
 <<<<<<< HEAD
-location hyderbad
+location kuaktpally hyderbad
 skills ; devops
